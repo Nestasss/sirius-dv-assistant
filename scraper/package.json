@@ -1,0 +1,10 @@
+{
+  "name": "sirius-scraper",
+  "version": "1.0.0",
+  "description": "Playwright scraper for Encar and iDubid",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "pg": "^8.11.0"
+  }
+}

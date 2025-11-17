@@ -1,0 +1,6 @@
+{
+  "name": "sirius-calculator",
+  "version": "1.0.0",
+  "description": "Price calculator",
+  "main": "price-calculator.js"
+}
